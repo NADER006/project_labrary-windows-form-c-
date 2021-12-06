@@ -1,0 +1,60 @@
+C:\Users\نادر محمد\Desktop\تطبيقات c#\project_labrary\project_labrary\bin\Debug\project_labrary.exe.config
+C:\Users\نادر محمد\Desktop\تطبيقات c#\project_labrary\project_labrary\obj\Debug\project_labrary.csprojResolveAssemblyReference.cache
+C:\Users\نادر محمد\Desktop\تطبيقات c#\project_labrary\project_labrary\obj\Debug\project_labrary.PL.FRM_MAIN.resources
+C:\Users\نادر محمد\Desktop\تطبيقات c#\project_labrary\project_labrary\obj\Debug\project_labrary.Properties.Resources.resources
+C:\Users\نادر محمد\Desktop\تطبيقات c#\project_labrary\project_labrary\obj\Debug\project_labrary.csproj.GenerateResource.Cache
+C:\Users\نادر محمد\Desktop\تطبيقات c#\project_labrary\project_labrary\bin\Debug\project_labrary.exe
+C:\Users\نادر محمد\Desktop\تطبيقات c#\project_labrary\project_labrary\bin\Debug\project_labrary.pdb
+C:\Users\نادر محمد\Desktop\تطبيقات c#\project_labrary\project_labrary\obj\Debug\project_labrary.exe
+C:\Users\نادر محمد\Desktop\تطبيقات c#\project_labrary\project_labrary\obj\Debug\project_labrary.pdb
+C:\Users\نادر محمد\Desktop\تطبيقات c#\project_labrary\project_labrary\bin\Debug\DB_LABRARY.mdf
+C:\Users\نادر محمد\Desktop\تطبيقات c#\project_labrary\project_labrary\bin\Debug\DB_LABRARY_log.ldf
+C:\Users\نادر محمد\Desktop\تطبيقات c#\project_labrary\project_labrary\obj\Debug\project_labrary.PL.FRM_ADDCAT.resources
+C:\Users\نادر محمد\Desktop\تطبيقات c#\project_labrary\project_labrary\obj\Debug\project_labrary.PL.FRM_DADD.resources
+C:\Users\نادر محمد\Desktop\تطبيقات c#\project_labrary\project_labrary\obj\Debug\project_labrary.PL.FRM_DEDIT.resources
+C:\Users\نادر محمد\Desktop\تطبيقات c#\project_labrary\project_labrary\obj\Debug\project_labrary.PL.FRM_ERRORINSERT.resources
+C:\Users\نادر محمد\Desktop\تطبيقات c#\project_labrary\project_labrary\obj\Debug\project_labrary.PL.FRM_DELETE.resources
+C:\Users\نادر محمد\Desktop\تطبيقات c#\project_labrary\project_labrary\obj\Debug\project_labrary.PL.FRM_ADDBOOKS.resources
+C:\Users\نادر محمد\Desktop\تطبيقات c#\project_labrary\project_labrary\obj\Debug\project_labrary.PL.FRM_DETBOOKS.resources
+C:\Users\نادر محمد\Desktop\تطبيقات c#\project_labrary\project_labrary\obj\Debug\project_labrary.PL.FRM_ADDUSER.resources
+C:\Users\نادر محمد\Desktop\تطبيقات c#\project_labrary\project_labrary\obj\Debug\project_labrary.PL.FRM_LOGIN.resources
+C:\Users\نادر محمد\Desktop\مجلد المشارع\مشارع الدكتورة مروة\project1 windows form application\project_labrary\project_labrary\bin\Debug\project_labrary.exe.config
+C:\Users\نادر محمد\Desktop\مجلد المشارع\مشارع الدكتورة مروة\project1 windows form application\project_labrary\project_labrary\obj\Debug\project_labrary.exe
+C:\Users\نادر محمد\Desktop\مجلد المشارع\مشارع الدكتورة مروة\project1 windows form application\project_labrary\project_labrary\obj\Debug\project_labrary.pdb
+C:\Users\نادر محمد\Desktop\مجلد المشارع\مشارع الدكتورة مروة\project1 windows form application\project_labrary\project_labrary\bin\Debug\DB_LABRARY.mdf
+C:\Users\نادر محمد\Desktop\مجلد المشارع\مشارع الدكتورة مروة\project1 windows form application\project_labrary\project_labrary\bin\Debug\DB_LABRARY_log.ldf
+C:\Users\نادر محمد\Desktop\مجلد المشارع\مشارع الدكتورة مروة\project1 windows form application\project_labrary\project_labrary\bin\Debug\project_labrary.exe
+C:\Users\نادر محمد\Desktop\مجلد المشارع\مشارع الدكتورة مروة\project1 windows form application\project_labrary\project_labrary\bin\Debug\project_labrary.pdb
+C:\Users\نادر محمد\Desktop\مجلد المشارع\مشارع الدكتورة مروة\project1 windows form application\project_labrary\project_labrary\obj\Debug\project_labrary.csprojResolveAssemblyReference.cache
+C:\Users\نادر محمد\Desktop\مجلد المشارع\مشارع الدكتورة مروة\project1 windows form application\project_labrary\project_labrary\obj\Debug\project_labrary.PL.FRM_ADDCAT.resources
+C:\Users\نادر محمد\Desktop\مجلد المشارع\مشارع الدكتورة مروة\project1 windows form application\project_labrary\project_labrary\obj\Debug\project_labrary.PL.FRM_ADDBOOKS.resources
+C:\Users\نادر محمد\Desktop\مجلد المشارع\مشارع الدكتورة مروة\project1 windows form application\project_labrary\project_labrary\obj\Debug\project_labrary.PL.FRM_ADDUSER.resources
+C:\Users\نادر محمد\Desktop\مجلد المشارع\مشارع الدكتورة مروة\project1 windows form application\project_labrary\project_labrary\obj\Debug\project_labrary.PL.FRM_DADD.resources
+C:\Users\نادر محمد\Desktop\مجلد المشارع\مشارع الدكتورة مروة\project1 windows form application\project_labrary\project_labrary\obj\Debug\project_labrary.PL.FRM_DEDIT.resources
+C:\Users\نادر محمد\Desktop\مجلد المشارع\مشارع الدكتورة مروة\project1 windows form application\project_labrary\project_labrary\obj\Debug\project_labrary.PL.FRM_DELETE.resources
+C:\Users\نادر محمد\Desktop\مجلد المشارع\مشارع الدكتورة مروة\project1 windows form application\project_labrary\project_labrary\obj\Debug\project_labrary.PL.FRM_DETBOOKS.resources
+C:\Users\نادر محمد\Desktop\مجلد المشارع\مشارع الدكتورة مروة\project1 windows form application\project_labrary\project_labrary\obj\Debug\project_labrary.PL.FRM_ERRORINSERT.resources
+C:\Users\نادر محمد\Desktop\مجلد المشارع\مشارع الدكتورة مروة\project1 windows form application\project_labrary\project_labrary\obj\Debug\project_labrary.PL.FRM_LOGIN.resources
+C:\Users\نادر محمد\Desktop\مجلد المشارع\مشارع الدكتورة مروة\project1 windows form application\project_labrary\project_labrary\obj\Debug\project_labrary.PL.FRM_MAIN.resources
+C:\Users\نادر محمد\Desktop\مجلد المشارع\مشارع الدكتورة مروة\project1 windows form application\project_labrary\project_labrary\obj\Debug\project_labrary.Properties.Resources.resources
+C:\Users\نادر محمد\Desktop\مجلد المشارع\مشارع الدكتورة مروة\project1 windows form application\project_labrary\project_labrary\obj\Debug\project_labrary.csproj.GenerateResource.Cache
+C:\Users\نادر محمد\Desktop\مجلد المشارع\مشارع الدكتورة مروة\project1 windows form application\project_labrary windows form c#\project_labrary\bin\Debug\project_labrary.exe.config
+C:\Users\نادر محمد\Desktop\مجلد المشارع\مشارع الدكتورة مروة\project1 windows form application\project_labrary windows form c#\project_labrary\obj\Debug\project_labrary.exe
+C:\Users\نادر محمد\Desktop\مجلد المشارع\مشارع الدكتورة مروة\project1 windows form application\project_labrary windows form c#\project_labrary\obj\Debug\project_labrary.pdb
+C:\Users\نادر محمد\Desktop\مجلد المشارع\مشارع الدكتورة مروة\project1 windows form application\project_labrary windows form c#\project_labrary\bin\Debug\DB_LABRARY.mdf
+C:\Users\نادر محمد\Desktop\مجلد المشارع\مشارع الدكتورة مروة\project1 windows form application\project_labrary windows form c#\project_labrary\bin\Debug\DB_LABRARY_log.ldf
+C:\Users\نادر محمد\Desktop\مجلد المشارع\مشارع الدكتورة مروة\project1 windows form application\project_labrary windows form c#\project_labrary\bin\Debug\project_labrary.exe
+C:\Users\نادر محمد\Desktop\مجلد المشارع\مشارع الدكتورة مروة\project1 windows form application\project_labrary windows form c#\project_labrary\bin\Debug\project_labrary.pdb
+C:\Users\نادر محمد\Desktop\مجلد المشارع\مشارع الدكتورة مروة\project1 windows form application\project_labrary windows form c#\project_labrary\obj\Debug\project_labrary.csprojResolveAssemblyReference.cache
+C:\Users\نادر محمد\Desktop\مجلد المشارع\مشارع الدكتورة مروة\project1 windows form application\project_labrary windows form c#\project_labrary\obj\Debug\project_labrary.PL.FRM_ADDCAT.resources
+C:\Users\نادر محمد\Desktop\مجلد المشارع\مشارع الدكتورة مروة\project1 windows form application\project_labrary windows form c#\project_labrary\obj\Debug\project_labrary.PL.FRM_ADDBOOKS.resources
+C:\Users\نادر محمد\Desktop\مجلد المشارع\مشارع الدكتورة مروة\project1 windows form application\project_labrary windows form c#\project_labrary\obj\Debug\project_labrary.PL.FRM_ADDUSER.resources
+C:\Users\نادر محمد\Desktop\مجلد المشارع\مشارع الدكتورة مروة\project1 windows form application\project_labrary windows form c#\project_labrary\obj\Debug\project_labrary.PL.FRM_DADD.resources
+C:\Users\نادر محمد\Desktop\مجلد المشارع\مشارع الدكتورة مروة\project1 windows form application\project_labrary windows form c#\project_labrary\obj\Debug\project_labrary.PL.FRM_DEDIT.resources
+C:\Users\نادر محمد\Desktop\مجلد المشارع\مشارع الدكتورة مروة\project1 windows form application\project_labrary windows form c#\project_labrary\obj\Debug\project_labrary.PL.FRM_DELETE.resources
+C:\Users\نادر محمد\Desktop\مجلد المشارع\مشارع الدكتورة مروة\project1 windows form application\project_labrary windows form c#\project_labrary\obj\Debug\project_labrary.PL.FRM_DETBOOKS.resources
+C:\Users\نادر محمد\Desktop\مجلد المشارع\مشارع الدكتورة مروة\project1 windows form application\project_labrary windows form c#\project_labrary\obj\Debug\project_labrary.PL.FRM_ERRORINSERT.resources
+C:\Users\نادر محمد\Desktop\مجلد المشارع\مشارع الدكتورة مروة\project1 windows form application\project_labrary windows form c#\project_labrary\obj\Debug\project_labrary.PL.FRM_LOGIN.resources
+C:\Users\نادر محمد\Desktop\مجلد المشارع\مشارع الدكتورة مروة\project1 windows form application\project_labrary windows form c#\project_labrary\obj\Debug\project_labrary.PL.FRM_MAIN.resources
+C:\Users\نادر محمد\Desktop\مجلد المشارع\مشارع الدكتورة مروة\project1 windows form application\project_labrary windows form c#\project_labrary\obj\Debug\project_labrary.Properties.Resources.resources
+C:\Users\نادر محمد\Desktop\مجلد المشارع\مشارع الدكتورة مروة\project1 windows form application\project_labrary windows form c#\project_labrary\obj\Debug\project_labrary.csproj.GenerateResource.Cache
